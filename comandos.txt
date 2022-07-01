@@ -1,0 +1,12 @@
+Objetos internos do git 
+ls - listar conteúdos da pasta
+cd "pasta" - entrar em uma determinada pasta
+mkdir "nova pasta" - criar uma nova pasta 
+ctrl+L apaga o que já foi escrito anteriormente 
+
+Comandos
+git init - iniciar repositório
+git add - pra mover arquivos
+git commit - primeiro commit 
+
+Usar esses códigos no git bash e também pode ser usador em extensões do git no VS code  
